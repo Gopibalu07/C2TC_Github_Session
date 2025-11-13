@@ -4,6 +4,6 @@ public class Demo {
 	public static void main(String[] args) {
 		System.out.println("vanakam da mapala villupurathala irundhu");
 		System.out.println("😎🙏");
-		System.out.println("Moodu");
+		System.out.println("My world");
 	}
 }
